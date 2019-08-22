@@ -1,0 +1,26 @@
+@import "./styles/variables";
+
+.header {
+    background-color: $color-secondary;
+    grid-row: 1;
+    grid-column: 1 / 8;
+    display: grid;
+    grid-template-rows: repeat(2, min-content);
+    grid-template-columns: repeat(2, 1fr);
+    padding: 2rem;
+
+    &-name {
+        grid-row: 1;
+        grid-column: 1/-1;
+    }
+
+    &-subtext-left {
+        grid-row: 2;
+        grid-column: 1/2;
+    }
+
+    &-subtext-right {
+        grid-row: 2;
+        grid-column: 2/-1;
+    }
+}

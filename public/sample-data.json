@@ -1,0 +1,129 @@
+{
+	"companyInfo": {
+		"companyName": "Ryan Group",
+		"companyMotto": "B2C cultivate synergies",
+		"companyEst": "2017-12-31T11:59:27.582Z"
+	},
+	"employees": [
+		{
+			"id": "1606410a-2a0b-4b3c-ba4c-00a21fc79cb4",
+			"avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/her_ruu/128.jpg",
+			"firstName": "Jasper",
+			"lastName": "Jacobs",
+			"jobTitle": "Chief Directives Engineer",
+			"age": 67,
+			"bio": "Rerum voluptatem repellat nulla sed. Facilis minima eius. Nesciunt in a quia. Atque aut eos molestias voluptas et et rerum sed expedita.",
+			"dateJoined": "2016-06-17T20:41:23.178Z"
+		},
+		{
+			"id": "f6177dba-3338-469e-bc2c-0c49384d83b6",
+			"avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/marciotoledo/128.jpg",
+			"firstName": "Matthew",
+			"lastName": "Mclaughlin",
+			"jobTitle": "Future Research Consultant",
+			"age": 50,
+			"bio": "Quod voluptas vel animi quam soluta. Quasi repudiandae aperiam. Et alias error dolores ut aliquid. Consectetur tempore doloribus quod molestias. Similique laudantium suscipit pariatur omnis delectus.",
+			"dateJoined": "2013-04-03T07:25:52.687Z"
+		},
+		{
+			"id": "fa76c2e5-7f91-40b5-bd32-a13ff7c899ed",
+			"avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/fluidbrush/128.jpg",
+			"firstName": "Lucas",
+			"lastName": "Gleason",
+			"jobTitle": "National Creative Consultant",
+			"age": 46,
+			"bio": "Doloremque voluptas ex et rem ea aut. Doloremque nesciunt iste quae. Sit ut similique iure magni et porro.",
+			"dateJoined": "2018-06-02T10:35:26.613Z"
+		},
+		{
+			"id": "d3101d83-cae2-44d8-b6e3-4bb5fda2d4dd",
+			"avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jeremiespoken/128.jpg",
+			"firstName": "Ashton",
+			"lastName": "Lakin",
+			"jobTitle": "Senior Communications Assistant",
+			"age": 23,
+			"bio": "Eos non magnam et. Ea cupiditate minus quis velit amet sint earum repudiandae voluptatum. Quo sapiente voluptatem. Sint illum nihil facilis voluptas debitis eligendi voluptates. Nam maiores soluta voluptatum nulla veniam sint quasi ducimus amet. Quia eaque tempore sunt aut ab.",
+			"dateJoined": "2016-03-31T19:28:17.072Z"
+		},
+		{
+			"id": "b6bdd81e-3f18-4e51-a2dd-3539a1e426f1",
+			"avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/joelhelin/128.jpg",
+			"firstName": "Isabel",
+			"lastName": "Dare",
+			"jobTitle": "National Identity Officer",
+			"age": 22,
+			"bio": "Ea nulla sit voluptate sit sequi ducimus hic reiciendis qui. Vel omnis et atque officia omnis ad vitae. Possimus optio quae tempore et. Non vitae quis eveniet. Aut minus rerum itaque ut.",
+			"dateJoined": "2018-07-02T16:19:51.815Z"
+		},
+		{
+			"id": "05f44adc-cebd-4713-9c05-de0e76edf11f",
+			"avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/coreyweb/128.jpg",
+			"firstName": "Lucas",
+			"lastName": "Barrows",
+			"jobTitle": "Internal Integration Producer",
+			"age": 28,
+			"bio": "Ab quas error repudiandae tenetur. Non dignissimos voluptatem consequatur facere vel alias. Ut saepe deleniti natus. Et recusandae pariatur soluta. Inventore est laboriosam ratione ipsam eos quia commodi odio.",
+			"dateJoined": "2015-01-17T14:06:39.733Z"
+		},
+		{
+			"id": "1fbb998c-02d5-4a87-a39e-2135989e55e3",
+			"avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/dhooyenga/128.jpg",
+			"firstName": "Zac",
+			"lastName": "Tremblay",
+			"jobTitle": "Internal Implementation Liaison",
+			"age": 58,
+			"bio": "Sunt omnis ipsum dolorum. Aut repellendus est perferendis velit. Fuga doloremque possimus dignissimos maiores dolore tempora sed tempora.",
+			"dateJoined": "2018-04-21T22:48:21.601Z"
+		},
+		{
+			"id": "430df760-ea9c-48b2-aebb-f536e5cc21eb",
+			"avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/madewulf/128.jpg",
+			"firstName": "Annabelle",
+			"lastName": "O'connell",
+			"jobTitle": "Lead Paradigm Supervisor",
+			"age": 40,
+			"bio": "Doloribus quia odit tempore mollitia voluptatem sapiente autem. Quas aspernatur tempora nostrum repellendus distinctio doloribus qui. Eligendi eum eos nemo sapiente eveniet. Aliquam libero sed tenetur. Dolorem harum et vero est omnis consequatur corporis voluptas harum. Illum ipsam officiis nihil alias quis enim.",
+			"dateJoined": "2014-04-06T05:24:41.967Z"
+		},
+		{
+			"id": "9948a367-7339-4347-a0c1-b665dc6bf001",
+			"avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/angelceballos/128.jpg",
+			"firstName": "Sienna",
+			"lastName": "Dooley",
+			"jobTitle": "Dynamic Quality Manager",
+			"age": 31,
+			"bio": "Cumque sit quia ea et dolores expedita sit non quibusdam. Et tempora sit id enim ea. Tempora cupiditate qui omnis quo aut autem. Ut non et exercitationem qui. Quod totam sunt et quo quam.",
+			"dateJoined": "2015-10-14T20:23:34.466Z"
+		},
+		{
+			"id": "f967948c-51a0-4727-b5bc-2dd6d008c7c8",
+			"avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/elenadissi/128.jpg",
+			"firstName": "Willow",
+			"lastName": "Dooley",
+			"jobTitle": "Internal Security Producer",
+			"age": 47,
+			"bio": "Quibusdam repellendus occaecati. Ab aperiam distinctio repellat culpa quo sapiente ut repellendus et. Quis assumenda possimus. Qui non pariatur qui sed beatae. Totam ullam repellat molestiae explicabo tempora deleniti.",
+			"dateJoined": "2018-08-24T17:07:57.317Z"
+		},
+		{
+			"id": "35c970c4-fa17-43d0-9104-3634a2595609",
+			"avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/_pedropinho/128.jpg",
+			"firstName": "Liam",
+			"lastName": "Langworth",
+			"jobTitle": "National Paradigm Designer",
+			"age": 42,
+			"bio": "Minima et saepe culpa quia laborum aperiam ut et ullam. Enim ipsa ea quod est culpa eveniet esse aut. Officia totam similique qui voluptate quod provident nam quo pariatur. Ut cum repellat blanditiis quo incidunt deleniti debitis commodi suscipit.",
+			"dateJoined": "2018-05-28T23:03:50.466Z"
+		},
+		{
+			"id": "92cf14fd-7111-4007-a1ee-c8e523162196",
+			"avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/rpatey/128.jpg",
+			"firstName": "Henry",
+			"lastName": "Phillips",
+			"jobTitle": "Future Implementation Manager",
+			"age": 49,
+			"bio": "Provident sit earum dolores est ut soluta aut enim et. Rerum animi velit error nesciunt soluta rerum aut cum. Reprehenderit quisquam qui ut perferendis dolore officia. Commodi temporibus iure dolorem voluptatum eos molestiae perferendis.",
+			"dateJoined": "2015-03-09T22:23:02.107Z"
+		}
+	]
+}

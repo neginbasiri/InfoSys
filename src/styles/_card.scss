@@ -1,0 +1,7 @@
+@import "./styles/variables";
+
+.card {
+    cursor: pointer;
+    display: grid;
+    grid-template-columns: min-content 1fr;
+}

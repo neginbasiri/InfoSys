@@ -1,0 +1,32 @@
+@import "./styles/variables";
+
+.list {
+    padding: 2rem;
+    grid-row: 2/3;
+    grid-column: 1/8;
+
+    &-header {
+        display: grid;
+        grid-template-columns: repeat(6, 1fr);
+
+        &-name {
+            grid-column: 1/4;
+        }
+
+        &-sort {
+            grid-column: 5/6;
+        }
+
+        &-filter {
+            grid-column: 6/7;
+        }
+    }
+
+    &-content {
+        margin-top: 2rem;
+        grid-column: 1/-1;
+        display: grid;
+        grid-template-columns: repeat(3, minmax(25rem,1fr));
+        grid-gap: 4rem;
+    }
+}

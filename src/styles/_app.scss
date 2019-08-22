@@ -1,0 +1,5 @@
+.app {
+    display: grid;
+    grid-template-rows: min-content calc(100vh - min-content);
+    grid-template-columns: repeat(6, min-content);
+}
